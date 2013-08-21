@@ -2,6 +2,10 @@
 
 Generate a burndown chart from trello cards.
 
+## Board ID
+
+Looks like this: Ap7w5jYw
+
 ## Features
 
 * Generate burndown charts from Trello cards
